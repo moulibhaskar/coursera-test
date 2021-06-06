@@ -20,9 +20,8 @@ section {
 
 h2 {
     font-family: fantasy;
-    float: left;
     border:2px solid black;
-    color: blue;
+    color: black;
     font-size: 100%;
     padding: 5px 20px 5px 20px;
     margin-top: 0;
