@@ -1,0 +1,78 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: calibri;
+    color: darkgreen;
+    font-weight: bold;
+    font-size: 140%;
+    text-align: center;
+}
+
+section {
+    font-family: sans-serif;
+    border: 2px solid black;    
+    background-color: bisque;
+    height: 250px;
+    overflow: auto;
+}
+
+h2 {
+    font-family: fantasy;
+    float: left;
+    border:2px solid black;
+    color: blue;
+    font-size: 100%;
+    padding: 5px 10px 5px 10px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+ol {
+    text-align: center;
+    width: 80%;
+}
+
+#IndianRajaThali {
+    background-color: orange;
+}
+
+#IndianMandi {
+    background-color: lightgreen;
+}
+
+#Southindianmeals {
+    background-color: skyblue;
+}
+
+/*  DESKTOP VERSION */
+
+@media (min-width: 992px) {
+ 
+  .col-lg-4 {
+    width: 33.33%;
+    float: left;
+    }
+}
+
+/* TABLET VERSION */
+@media (min-width: 768px) and (max-width: 991px) {
+ 
+  .col-md-6 {
+    width: 50%;
+    float: left;
+  }
+  .col-md-12 {
+    width: 100%;
+    float: left;
+  }
+}
+/*  MOBILE VERSION */
+@media (max-width: 767px)  {
+  
+  .sx-12 {
+    float: left;
+    width: 100%;
+  }
+}
