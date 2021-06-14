@@ -1,5 +1,9 @@
+
+
 div > p {
 	text-align: justify;
+	font-family: calibri;
+	color: red;
 }
 
 .content-cell {
@@ -10,8 +14,7 @@ div > p {
 
 .content-cell h2 {
 	margin-top: -5px;
-	font-family: calibri;
-	color: purple;
+	
 }
 
 /* Not XS screen */
