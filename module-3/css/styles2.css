@@ -3,13 +3,15 @@ div > p {
 }
 
 .content-cell {
-	background-color: #BBDDBB;
+	background-color: yellow;
 	margin-bottom: 15px;
 	padding: 10px 15px;
 }
 
 .content-cell h2 {
 	margin-top: -5px;
+	font-family: calibri;
+	color: purple;
 }
 
 /* Not XS screen */
