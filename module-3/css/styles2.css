@@ -52,6 +52,6 @@ div > p {
 	}
 	#nav-list li:hover{
 		font-weight: bold;
-		background-color: #BBDDBB;
+		background-color: darkgreen;
 	}
 }
