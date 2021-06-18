@@ -1,13 +1,13 @@
 var names = new Array();
-names[0]="india";
-names[1]="japan";
-names[2]="australia";
-names[3]="england";
-names[4]="USA";
-names[5]="france";
-names[6]="srilanka";
-names[7]="nepal";
-names[8]="world";
+names[0]="Yaakov";
+names[1]="John";
+names[2]="Jen";
+names[3]="jason";
+names[4]="paul";
+names[5]="frank";
+names[6]="larry";
+names[7]="paula";
+names[8]="laura";
 
 for(var i=0; i< names.length; i++)
 {
