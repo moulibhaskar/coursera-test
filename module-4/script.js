@@ -8,7 +8,7 @@ names[5]="frank";
 names[6]="larry";
 names[7]="paula";
 names[8]="laura";
-names[9]="jim";
+names[9]="Jim";
 
 for(var i=0; i< names.length; i++)
 {
