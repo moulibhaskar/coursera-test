@@ -11,12 +11,12 @@ names[8]="world";
 
 for(var i=0; i< names.length; i++)
 {
-	if(n[i].charAt()==='J'||n[i].charAt()==='j')
+	if(names[i].charAt()==='J'||names[i].charAt()==='j')
 	{
-		console.log("goodbye" + names[i]);
+		console.log("Goodbye " + names[i]);
 	}
 	else
 	{
-		console.log("hello" + names[i]);
+		console.log("Hello " + names[i]);
 	}
 }
